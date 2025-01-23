@@ -1,6 +1,6 @@
 # Script
 ```lua
-loadstring(game:HttpGet("https://github.com/poisonILUSION/PoisonHUB/blob/main/ScriptsHub",true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/poisonILUSION/PoisonHUB/refs/heads/main/ScriptsHub",true))();
 ```
 
 # Poison Scripts Hub
