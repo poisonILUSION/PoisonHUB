@@ -1,3 +1,8 @@
+# Script
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/leenZzZzZ/ScriptHUB/main/Script%20Hub",true))();
+```
+
 # Poison Scripts Hub
 
 O **Poison Scripts Hub** é o **maior script** multifuncional, repleto de **diversos scripts** para vários jogos populares. Com uma vasta gama de recursos e funcionalidades, o Poison Scripts Hub permite que os jogadores aproveitem ao máximo seus jogos favoritos através de automações e melhorias no desempenho.
